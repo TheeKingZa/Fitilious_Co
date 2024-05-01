@@ -17,9 +17,9 @@
   ============================= */
 
   :root {
-    --color-primary: black;
-    --color-black:  gold;
-    --color-white: white;
+    --color-primary: white;
+    --color-black:  gray;
+    --color-white: gold;
     --color-grey: #a0a0a0;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
