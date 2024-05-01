@@ -17,7 +17,7 @@
   ============================= */
 
   :root {
-    --color-primary: gold;
+    --color-primary: black;
     --color-black:  gray;
     --color-white: gold;
     --color-grey: #a0a0a0;
@@ -134,7 +134,7 @@
   }
   
   a:active {
-    background-color: var(--color-light-grey);
+    background-color: var(--color-primary);
   }
   
   .button {
